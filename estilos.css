@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: #10020f;
+    background-color: #dfa3ff;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px #eff5fa;
+      font-family: 'georgia';
+    border: 10px solid #eff5fa;
+    margin: 5px auto;
+
+}
+h2{ 
+   text-align: justify;
+    text-indent: 5px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 2px #ced4da;
+      font-family: 'georgia';
+    border-style: dotted solid dashed double;
+     width: 1000px;
+    text-align: center;
+}
+
+h4{
+    text-indent: 5px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 2px #ced4da;
+      font-family: 'georgia';
+}
+body{
+    background-color: pink;
+    color:black;
+}
+p{
+    text-indent: 30px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 2px #ced4da;
+    font-family: 'georgia';
+}
